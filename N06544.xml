@@ -113,18 +113,20 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:008307_0000_102E8713CB74D0C8"/>
-            <pb facs="tcp:008307_0001_102E78BC38E31858" rendition="simple:additions"/>
+            <pb facs="unknown:008307_0000_102E8713CB74D0C8"/>
+            <pb facs="unknown:008307_0001_102E78BC38E31858"
+                rendition="simple:additions"/>
             <p>A PARAPHRASE.</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:008307_0002_102E78BF215C2170" rendition="simple:additions"/>
+            <pb facs="unknown:008307_0002_102E78BF215C2170"
+                rendition="simple:additions"/>
             <p>A PARAPHRASE ON PART OF THE OECONOMY OF HUMAN LIFE.</p>
             <p>INSCRIBED TO HIS EXCELLENCY THOMAS POWNALL, <abbr>ESQ</abbr> GOVERNOR OF THE PROVINCE OF THE MASSACHUSETTS-BAY.</p>
             <p>BOSTON NEW-ENGLAND: PRINTED AND SOLD BY GREEN AND RUSSELL, AT THEIR PRINTING-OFFICE, IN QUEEN-STREET. MDCCLIX.</p>
          </div>
          <div type="table_of_contents">
-            <pb facs="tcp:008307_0003_102E78D99ECCA8A8"/>
+            <pb facs="unknown:008307_0003_102E78D99ECCA8A8"/>
             <head>THE CONTENTS.</head>
             <list>
                <item>INTRODUCTION. Page 3</item>
@@ -141,7 +143,7 @@
             </list>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:008307_0004_102E8633F3ACC280"/>
+            <pb facs="unknown:008307_0004_102E8633F3ACC280"/>
             <head>ADVERTISEMENT.</head>
             <head type="sub">"THE OECONOMY OF HUMAN LIFE" gave riſe to the following performance.</head>
             <p>The firſt draught of it was only a verſification of the oeconomy: but the author having ſince conſi<g ref="char:EOLhyphen"/>derably enlarged it without regarding the original, it cannot be called in it's preſent ſtate a verſification. And even the title it now bears "A PARAPHRASE" does not properly belong to it: for thô, in ſome parts of it, it may be a paraphraſe; in other parts, the matter is not the ſame.</p>
@@ -156,7 +158,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb n="3" facs="tcp:008307_0005_102E8638151E8268"/>
+            <pb n="3" facs="unknown:008307_0005_102E8638151E8268"/>
             <head>A PARAPHRASE ON PART OF The Oeconomy of Human Life.</head>
             <div type="introduction">
                <head>INTRODUCTION.</head>
@@ -172,7 +174,7 @@
                   <l>Where ſound, ſwift-wafted on the wings of air,</l>
                   <l>Can reach a fit — a correſpondent car;</l>
                   <l>
-                     <pb n="4" facs="tcp:008307_0006_102E863AD900C1C0"/>Where'er are minds endow'd with reaſon's ray;</l>
+                     <pb n="4" facs="unknown:008307_0006_102E863AD900C1C0"/>Where'er are minds endow'd with reaſon's ray;</l>
                   <l>Where'er fair reaſon can her charms diſplay:</l>
                   <l>Ev'n there — built firm on nature's laſting baſe —</l>
                   <l>Let truth ſucceed, adorn'd with ev'ry grace:</l>
@@ -195,7 +197,7 @@
                   <l>His dauntleſs arm a pow'r almighty wears;</l>
                   <l>And in his works it's matchleſs pow'r declares:</l>
                   <l>
-                     <pb n="5" facs="tcp:008307_0007_102E863D88754880"/>In unremitting ſtreams his goodneſs flows;</l>
+                     <pb n="5" facs="unknown:008307_0007_102E863D88754880"/>In unremitting ſtreams his goodneſs flows;</l>
                   <l>And undiminiſh'd thrô all nature glows:</l>
                   <l>His attributes unrival'd paſs all bounds;</l>
                   <l>Eternal Majeſty <note n="*" place="bottom">Pſal. civ. 1. — Thy Throne Eternal Majeſty <gap reason="illegible: indecipherable" extent="1 span">
@@ -218,7 +220,7 @@
                   <l>And nature's ſelf by meer volition guides.</l>
                </lg>
                <lg>
-                  <pb n="6" facs="tcp:008307_0008_102E8643C9CBEB58"/>
+                  <pb n="6" facs="unknown:008307_0008_102E8643C9CBEB58"/>
                   <l>The perfect wiſdom in GOD'S works diſplay'd,</l>
                   <l>By human minds but darkly is ſurvey'd:</l>
                   <l>Knowledge in man but as a dream appears;</l>
@@ -240,7 +242,7 @@
                   <l>To HIS beneficence, quite unconfin'd,</l>
                   <l>Man owes the rare endowments of his mind:</l>
                   <l>
-                     <pb n="7" facs="tcp:008307_0009_102E86454D6F7BD0"/>The matchleſs wonders of the human frame</l>
+                     <pb n="7" facs="unknown:008307_0009_102E86454D6F7BD0"/>The matchleſs wonders of the human frame</l>
                   <l>Declare the architect, and GOD proclaim.</l>
                </lg>
                <lg>
@@ -266,7 +268,7 @@
                      <l>And ſcatter terror thrô th' affrightned land.</l>
                   </lg>
                   <lg>
-                     <pb n="8" facs="tcp:008307_0010_102E8647F2CA0F58"/>
+                     <pb n="8" facs="unknown:008307_0010_102E8647F2CA0F58"/>
                      <l>Theſe are the dire effects of royal rage;</l>
                      <l>And theſe reproach moſt chriſtian LEWIS' <note n="*" place="bottom">Voltaire, the panegyriſt of LEWIS XIV, has given divers inſtances of the rage and perfidy of that Monarch. A remarkable one reſpects the Dutch: whoſe deſtruction (which he nearly accompliſhed in 1672) he meditated at the very time he ſettled a treaty of peace with them. The deſperate remedy they had recourſe to (which was the only one in their power) was the cutting of their dikes: by which means Amſterdam and all the adjacent country were laid under water. This ſtopped the progreſs of Lewis; and, thô it almoſt ruin'd them, prevented their total de<g ref="char:EOLhyphen"/>ſtruction. See the Age of Lewis XIV.</note> age:</l>
                      <l>Theſe mark the annals of the STEWART-RACE;</l>
@@ -285,7 +287,7 @@
                      <l>Friendſhip deſtroys; and ſocial virtue wounds.</l>
                   </lg>
                   <lg>
-                     <pb n="9" facs="tcp:008307_0011_102E864C1E475F90"/>
+                     <pb n="9" facs="unknown:008307_0011_102E864C1E475F90"/>
                      <l>The man, with rage inſpir'd, is truly blind;</l>
                      <l>Before — how bright ſoe'cr his reaſon ſhin'd:</l>
                      <l>Toſs'd like the Sea, while boiſt'rous are its waves,</l>
@@ -312,7 +314,7 @@
                      <l>That reaſon can thy paſſion's rage ſubdue;</l>
                      <l>
                         <pb n="10"
-                            facs="tcp:008307_0012_102E864EEC85C038"
+                            facs="unknown:008307_0012_102E864EEC85C038"
                             rendition="simple:additions"/>That reaſon can the wild exceſs control,</l>
                      <l>And to a calm reduce the boiſt'rous ſoul.</l>
                   </lg>
@@ -338,7 +340,7 @@
                   </lg>
                   <lg>
                      <pb n="11"
-                         facs="tcp:008307_0013_102E8653F3CBBC30"
+                         facs="unknown:008307_0013_102E8653F3CBBC30"
                          rendition="simple:additions"/>
                      <l>The man of gen'rous principles poſſeſs'd,</l>
                      <l>Whoſe nature's frailties touch his conſcious breaſt,</l>
@@ -366,7 +368,7 @@
                      <l>And does his ſoul to num'rous ills betray.</l>
                   </lg>
                   <lg>
-                     <pb n="12" facs="tcp:008307_0014_102E8656A3ACFEE0"/>
+                     <pb n="12" facs="unknown:008307_0014_102E8656A3ACFEE0"/>
                      <l>Let not revenge find ſhelter in thy breaſt,</l>
                      <l>And with a home-felt pain thy ſoul infeſt:</l>
                      <l>'Twill wound thy heart; allay it's ſprightlieſt joy;</l>
@@ -391,7 +393,7 @@
                      <l>And make a calm to paſſion's ſtorm ſucceed.</l>
                      <l>
                         <pb n="13"
-                            facs="tcp:008307_0015_102E865950B42368"
+                            facs="unknown:008307_0015_102E865950B42368"
                             rendition="simple:additions"/>The man, whoſe anger you can thus aſſwage,</l>
                      <l>And thus appeaſe when in it's fulleſt rage,</l>
                      <l>No more ſhall view thee with a vengeful eye;</l>
@@ -417,7 +419,7 @@
                   </lg>
                </div>
                <div type="section">
-                  <pb n="14" facs="tcp:008307_0016_102E865AD3107288"/>
+                  <pb n="14" facs="unknown:008307_0016_102E865AD3107288"/>
                   <head>DESIRE AND LOVE.</head>
                   <lg>
                      <l>WHEN thrô your veins the blood impetuous flows,</l>
@@ -437,7 +439,7 @@
                      <l>Diſarm of virtue; which in youth appears,</l>
                      <l>More lovely, and more graceful than in years:</l>
                      <l>
-                        <pb n="15" facs="tcp:008307_0017_102E865FD3751058"/>Diſarm of virtue; which alone can give</l>
+                        <pb n="15" facs="unknown:008307_0017_102E865FD3751058"/>Diſarm of virtue; which alone can give</l>
                      <l>A joy, that ſhall all other joys outlive;</l>
                      <l>A joy, that ſhall increaſe with growing age;</l>
                      <l>Nor fail us when we quit this mortal ſtage.</l>
@@ -460,7 +462,7 @@
                      <l>When ev'ry ſource of joy, ſo faſt they flow,</l>
                      <l>Shall be all ſpent, or run at beſt, but ſlow:</l>
                      <l>
-                        <pb n="16" facs="tcp:008307_0018_102E866155A0C228"/>When pain ſhall ſeize thee, in that early ſtage,</l>
+                        <pb n="16" facs="unknown:008307_0018_102E866155A0C228"/>When pain ſhall ſeize thee, in that early ſtage,</l>
                      <l>And quick reduce thee to the ſtate of age.</l>
                   </lg>
                   <lg>
@@ -485,7 +487,7 @@
                      <l>Survey'd and re-ſurvey'd from feet to head,</l>
                      <l>A thouſand nameleſs beauties round her ſpread:</l>
                      <l>
-                        <pb n="17" facs="tcp:008307_0019_102E866554C3BC20"/>See down her neck the charming locks deſcend;</l>
+                        <pb n="17" facs="unknown:008307_0019_102E866554C3BC20"/>See down her neck the charming locks deſcend;</l>
                      <l>And, black as jet, in waving ringlets end:</l>
                      <l>The jetty locks, as down her neck they flow,</l>
                      <l>The lovely white to great advantage ſhow:</l>
@@ -507,7 +509,7 @@
                      <l>And art's beſt ſkill to equal them defy.</l>
                   </lg>
                   <lg>
-                     <pb n="18" facs="tcp:008307_0020_102E8666D94AC310"/>
+                     <pb n="18" facs="unknown:008307_0020_102E8666D94AC310"/>
                      <l>Theſe matchleſs charms, which now in bloom appear,</l>
                      <l>Are far exalted by the dreſs they wear:</l>
                      <l>With virtue robe'd, with modeſty attir'd,</l>
@@ -529,7 +531,7 @@
                      <l>How ſweet her kiſs! than honey far more ſweet;</l>
                      <l>And like her lips exempt from all deceit:</l>
                      <l>
-                        <pb n="19" facs="tcp:008307_0021_102E866C0C98F1F0"/>Her lips far ſweeter odours breath around,</l>
+                        <pb n="19" facs="unknown:008307_0021_102E866C0C98F1F0"/>Her lips far ſweeter odours breath around,</l>
                      <l>Than e'er exhal'd from India's od'rous ground:</l>
                      <l>More ſweet than e'er perfum'd the ſpicy coaſt;</l>
                      <l>More ſweet than fam'd Arabia can boaſt.</l>
@@ -556,7 +558,7 @@
                      <l>She ſees without a frown a ſiſter's charms,</l>
                      <l>And thô a rival takes her to her arms:</l>
                      <l>
-                        <pb n="20" facs="tcp:008307_0022_102E866D9057C6E0"/>She looks around; each ſcene of life reviews;</l>
+                        <pb n="20" facs="unknown:008307_0022_102E866D9057C6E0"/>She looks around; each ſcene of life reviews;</l>
                      <l>And with a heedful ſtep her courſe purſues:</l>
                      <l>She views her heart with circumſpective eyes;</l>
                      <l>And by true wiſdom's laws her conduct tries.</l>
@@ -577,7 +579,7 @@
                      <l>She's not elate, ſhe's not debas'd, with pride;</l>
                      <l>Nor lets it in her charms triumphant ride:</l>
                      <l>
-                        <pb n="21" facs="tcp:008307_0023_102E86716119B588"/>But modeſty and kind deportment reign</l>
+                        <pb n="21" facs="unknown:008307_0023_102E86716119B588"/>But modeſty and kind deportment reign</l>
                      <l>In all ſhe does, and juſt applauſes gain.</l>
                   </lg>
                   <lg>
@@ -596,7 +598,7 @@
                   </lg>
                </div>
                <div type="section">
-                  <pb n="22" facs="tcp:008307_0024_102E867315113428"/>
+                  <pb n="22" facs="unknown:008307_0024_102E867315113428"/>
                   <head>WOMAN.</head>
                   <lg>
                      <l>ATTEND ye fair! ye love-inſpiring fair!</l>
@@ -617,7 +619,7 @@
                      <l>Whilſt ev'ry eye is with meer beauty tir'd.</l>
                   </lg>
                   <lg>
-                     <pb n="23" facs="tcp:008307_0025_102E867809074F50"/>
+                     <pb n="23" facs="unknown:008307_0025_102E867809074F50"/>
                      <l>In life's fair bloom; the morning of your days—</l>
                      <l>When men with riſing paſſion on you gaze;</l>
                      <l>When nature, ſoftly whiſp'ring in your ear,</l>
@@ -641,7 +643,7 @@
                      <l>To ſooth his breaſt when troubles overbear;</l>
                      <l>And with your love to recompence his care:</l>
                      <l>
-                        <pb n="24" facs="tcp:008307_0026_102E86798AEC8DF8"/>To raiſe his drooping ſpirits in diſtreſs;</l>
+                        <pb n="24" facs="unknown:008307_0026_102E86798AEC8DF8"/>To raiſe his drooping ſpirits in diſtreſs;</l>
                      <l>And with your own promote his happineſs.</l>
                   </lg>
                   <lg>
@@ -664,7 +666,7 @@
                      <l>Diſcretion ripens with her growing Years,</l>
                      <l>And on her brow in ſcepter'd ſtate appears:</l>
                      <l>
-                        <pb n="25" facs="tcp:008307_0027_102E867C344B7B50"/>When ſcandal tarniſhes a riſing name,</l>
+                        <pb n="25" facs="unknown:008307_0027_102E867C344B7B50"/>When ſcandal tarniſhes a riſing name,</l>
                      <l>And throws from tongue to tongue her neighbour's fame,</l>
                      <l>Her ſoul diſdains to ſpread the ſcandal round;</l>
                      <l>And, far from wid'ning, ſtrives to heal the wound.</l>
@@ -685,7 +687,7 @@
                      <l>Her tongue harmonious muſic warbles round;</l>
                      <l>And on her lips is honey's ſweetneſs found.</l>
                      <l>
-                        <pb n="26" facs="tcp:008307_0028_102E867DED1C2438"/>Sacred to truth, and by it's laws confin'd,</l>
+                        <pb n="26" facs="unknown:008307_0028_102E867DED1C2438"/>Sacred to truth, and by it's laws confin'd,</l>
                      <l>Her lips impart the language of her mind.</l>
                      <l>With a becoming grace her words appear;</l>
                      <l>And, like her honeſt heart, are all ſincere.</l>
@@ -704,7 +706,7 @@
                      <l>Much leſs ſhall rabbles, <note n="*" place="bottom">—Certain modern aſſemblies ſo called: not yet known in America.</note> which the ſex debaſe,</l>
                      <l>Or routs, or <note n="*" place="bottom">—Certain modern aſſemblies ſo called: not yet known in America.</note> drums her character diſgrace.</l>
                      <l>
-                        <pb n="27" facs="tcp:008307_0029_102E8682DFAE1798"/>By wiſdom ſway'd, ſhe thus her hours employs;</l>
+                        <pb n="27" facs="unknown:008307_0029_102E8682DFAE1798"/>By wiſdom ſway'd, ſhe thus her hours employs;</l>
                      <l>And thus employ'd, a tranquil mind enjoys:</l>
                      <l>A tranquil mind—that very far outweighs</l>
                      <l>Th' applauſe of crouds; and ev'r her own juſt praiſe.</l>
@@ -729,7 +731,7 @@
                      <l>Submiſſion, not inforc'd by wrathful ſtrife,</l>
                      <l>Is an unfailing leſſon of her life:</l>
                      <l>
-                        <pb n="28" facs="tcp:008307_0030_102E868463406230"/>A leſſon, which ſhe ſtudies and obeys;</l>
+                        <pb n="28" facs="unknown:008307_0030_102E868463406230"/>A leſſon, which ſhe ſtudies and obeys;</l>
                      <l>And which, when learnt, a duteous mind diſplays.</l>
                   </lg>
                   <lg>
@@ -752,7 +754,7 @@
                      <l>Now grown mature, to her regard they owe</l>
                      <l>The home-felt pleaſures, which their boſoms know:</l>
                      <l>
-                        <pb n="29" facs="tcp:008307_0031_102E8685E7484640"/>The home-felt joys, which,—in a length'ning train,—</l>
+                        <pb n="29" facs="unknown:008307_0031_102E8685E7484640"/>The home-felt joys, which,—in a length'ning train,—</l>
                      <l>Thrô life's whole courſe within their boſoms reign.</l>
                   </lg>
                   <lg>
@@ -778,7 +780,7 @@
                      <l>Her actions, geſtures, ſpeech and looks impart</l>
                      <l>The undiſſembled goodneſs of her heart.</l>
                      <l>
-                        <pb n="30" facs="tcp:008307_0032_102E868898346940"/>Unitedly they all conſpire to ſhew</l>
+                        <pb n="30" facs="unknown:008307_0032_102E868898346940"/>Unitedly they all conſpire to ſhew</l>
                      <l>That in her friendſhips ſhe's ſincere and true.</l>
                   </lg>
                   <lg>
@@ -801,7 +803,7 @@
                      <l>Fearleſs to her—by common int'reſt join'd,</l>
                      <l>He pours his ſoul, and opens all his mind:</l>
                      <l>
-                        <pb n="31" facs="tcp:008307_0033_102E868D8D11A460"/>Her counſels, guided by her love, aſſwage</l>
+                        <pb n="31" facs="unknown:008307_0033_102E868D8D11A460"/>Her counſels, guided by her love, aſſwage</l>
                      <l>His riſing grief, and diſſipate it's rage.</l>
                      <l>If fortune's favors compaſs him around;</l>
                      <l>And, great as heart can wiſh, his wiſhes bound:</l>
@@ -824,7 +826,7 @@
                      <l>At home obſerve her; there—her conduct trace;</l>
                      <l>Obſerve her there—adorn'd with ev'ry grace:</l>
                      <l>
-                        <pb n="32" facs="tcp:008307_0034_102E868F10434CB0"/>She there with dignity preſides; and there</l>
+                        <pb n="32" facs="unknown:008307_0034_102E868F10434CB0"/>She there with dignity preſides; and there</l>
                      <l>Her virtues ſeen, in all their charms appear:</l>
                      <l>Among her virtues prudence foremoſt ſtands;</l>
                      <l>And all her thoughts, ere brôt in act, commands.</l>
@@ -847,7 +849,7 @@
                      <l>In proſp'rous days, when all around is gay;</l>
                      <l>And fortune ſhines with an auſpicious ray:</l>
                      <l>
-                        <pb n="33" facs="tcp:008307_0035_102E869092CC4D38"/>Unlike her ſex, ſhe's not elate with pride;</l>
+                        <pb n="33" facs="unknown:008307_0035_102E869092CC4D38"/>Unlike her ſex, ſhe's not elate with pride;</l>
                      <l>Nor, like her ſex, throws modeſty aſide:</l>
                      <l>But unelate, with ev'ry charm appears;</l>
                      <l>And all the marks of true politeneſs wears.</l>
@@ -871,7 +873,7 @@
                </div>
             </div>
             <div type="part">
-               <pb n="34" facs="tcp:008307_0036_102E8693419EA858"/>
+               <pb n="34" facs="unknown:008307_0036_102E8693419EA858"/>
                <head>CONSANGUINITY; or, NATURAL RELATIONS.</head>
                <div type="section">
                   <head>HUSBAND.</head>
@@ -891,7 +893,7 @@
                      <l>If, like the <note n="*" place="bottom">The Butterfly.</note> fly in varying colors gay,</l>
                      <l>In dreſs and ornament ſhe waſtes the day;</l>
                      <l>
-                        <pb n="35" facs="tcp:008307_0037_102E8698333E8BA8"/>If from her fav'rite glaſs but ſeldom ſeen,</l>
+                        <pb n="35" facs="unknown:008307_0037_102E8698333E8BA8"/>If from her fav'rite glaſs but ſeldom ſeen,</l>
                      <l>She views herſelf as beauty's matchleſs queen;</l>
                      <l>If with her charms her ſoul is warmly fir'd,</l>
                      <l>And, when they're prais'd, with raptures is inſpir'd;</l>
@@ -912,7 +914,7 @@
                      <l>To ſuch a part'ner ty'd—ſo hard the lot—</l>
                      <l>You'll wiſh to cut the worſe than gordian knot:</l>
                      <l>
-                        <pb n="36" facs="tcp:008307_0038_102E8699B7330310"/>But wiſh in vain.—domeſtic comfort fled,</l>
+                        <pb n="36" facs="unknown:008307_0038_102E8699B7330310"/>But wiſh in vain.—domeſtic comfort fled,</l>
                      <l>Succeeding ills ſhall circle round your head:</l>
                      <l>Succeeding ills, with ev'ry woe impreſs'd,</l>
                      <l>Shall ſeize, with unreſiſted force, your breaſt:</l>
@@ -935,7 +937,7 @@
                      <l>If, full of charms, her manners ſtrike your ſight;</l>
                      <l>And more and more, as cloſer view'd delight:</l>
                      <l>
-                        <pb n="37" facs="tcp:008307_0039_102E869B3995FD38"/>If, join'd with prudence, ſenſe inſpires her breaſt;</l>
+                        <pb n="37" facs="unknown:008307_0039_102E869B3995FD38"/>If, join'd with prudence, ſenſe inſpires her breaſt;</l>
                      <l>In ev'ry feature full to view expreſs'd:</l>
                      <l>If beauty's ſprightly charms adorn her face,</l>
                      <l>And, ſcatter'd o'er her, all her perſon grace:</l>
@@ -956,7 +958,7 @@
                      <l>In all thy conduct eaſy, calm and mild;</l>
                      <l>Not ſoon provok'd;—provok'd, ſoon reconcil'd:</l>
                      <l>
-                        <pb n="38" facs="tcp:008307_0040_102E869DE9F5D240"/>Treat her—by love, as well as int'reſt led—</l>
+                        <pb n="38" facs="unknown:008307_0040_102E869DE9F5D240"/>Treat her—by love, as well as int'reſt led—</l>
                      <l>As, under thee, the miſtreſs and the head:</l>
                      <l>To her if ſuitable reſpect you ſhew;</l>
                      <l>And do it frequently in public view:</l>
@@ -981,7 +983,7 @@
                      <l>Thò thine the right to rule with equal Sway;</l>
                      <l>Let not that right a rig'rous Soul betray:</l>
                      <l>
-                        <pb n="39" facs="tcp:008307_0041_102E86A2ED067D40"/>But, mindful of her ſex, it's weakneſs bear;</l>
+                        <pb n="39" facs="unknown:008307_0041_102E86A2ED067D40"/>But, mindful of her ſex, it's weakneſs bear;</l>
                      <l>And overlook the frailty of the fair.</l>
                   </lg>
                   <lg>
@@ -1010,7 +1012,7 @@
                      <l>Than all the noſtrums of the medic art.</l>
                   </lg>
                   <lg>
-                     <pb n="40" facs="tcp:008307_0042_102E86A46FA63630"/>
+                     <pb n="40" facs="unknown:008307_0042_102E86A46FA63630"/>
                      <l>Obſerve her ſex; ſurvey her frame with care;</l>
                      <l>Their ſtrength and weakneſs with thine own compare:</l>
                      <l>Her frame is tender, and her ſex is weak,</l>
@@ -1022,7 +1024,7 @@
                   </lg>
                </div>
                <div type="section">
-                  <pb n="41" facs="tcp:008307_0043_102E86A5F3F38F80"/>
+                  <pb n="41" facs="unknown:008307_0043_102E86A5F3F38F80"/>
                   <head>FATHER.</head>
                   <lg>
                      <l>CONSIDER thou! to whom the hand of heav'n,</l>
@@ -1042,7 +1044,7 @@
                      <l>Parental love—which ſways the human breaſt,</l>
                      <l>By words, by actions, and by looks expreſs'd;</l>
                      <l>
-                        <pb n="42" facs="tcp:008307_0044_102E86AA27346468"/>Pure, uncorrupt, ſincere, without alloy;</l>
+                        <pb n="42" facs="unknown:008307_0044_102E86AA27346468"/>Pure, uncorrupt, ſincere, without alloy;</l>
                      <l>Diſplay'd in ſympathies of grief and joy:</l>
                      <l>A love—to human boſoms not confin'd—</l>
                      <l>Seen in the world of life, in ev'ry kind;</l>
@@ -1067,7 +1069,7 @@
                      <l>Obſerve the bent and genius of his mind;</l>
                      <l>To what it's equal, and to what inclin'd:</l>
                      <l>
-                        <pb n="43" facs="tcp:008307_0045_102E86ACD52E0EE0"/>To arts and ſcience if his genius bend,</l>
+                        <pb n="43" facs="unknown:008307_0045_102E86ACD52E0EE0"/>To arts and ſcience if his genius bend,</l>
                      <l>And all their depths attempt to comprehend:</l>
                      <l>Betimes implant the ſcientific ſeed;</l>
                      <l>And, what you plant, with ſtreams refreſhing feed:</l>
@@ -1091,7 +1093,7 @@
                      <l>Prepare his mind, while ſoft, in early youth,</l>
                      <l>To love inſtruction, and to reliſh truth:</l>
                      <l>
-                        <pb n="44" facs="tcp:008307_0046_102E86AF7B5FD058"/>The tender mind let your example form;</l>
+                        <pb n="44" facs="unknown:008307_0046_102E86AF7B5FD058"/>The tender mind let your example form;</l>
                      <l>And virtue's precepts his ſoft boſom warm:</l>
                      <l>Let no bad language from his lips proceed;</l>
                      <l>Nor from his hand the leaſt injurious deed:</l>
@@ -1114,7 +1116,7 @@
                      <l>A vicious ſon, a ſon devoid of ſhame,</l>
                      <l>Who ſpurns at virtue, and it's ſacred name;</l>
                      <l>
-                        <pb n="45" facs="tcp:008307_0047_102E86B227F76A30"/>Who ſhuns with caution, ev'n in early youth,</l>
+                        <pb n="45" facs="unknown:008307_0047_102E86B227F76A30"/>Who ſhuns with caution, ev'n in early youth,</l>
                      <l>The pleaſing paths that lead to heav'n-born truth;</l>
                      <l>Who takes delight in each flagitious deed,</l>
                      <l>And runs with eagerneſs where vice will lead:</l>
@@ -1137,7 +1139,7 @@
                      <l>Teach him his Duty in his tender age;</l>
                      <l>And all his pow'rs to practice it engage:</l>
                      <l>
-                        <pb n="46" facs="tcp:008307_0048_102E86B3F3224D30"/>Teach him ſubmiſſion where 'tis juſtly due,</l>
+                        <pb n="46" facs="unknown:008307_0048_102E86B3F3224D30"/>Teach him ſubmiſſion where 'tis juſtly due,</l>
                      <l>To heav'n, the civil magiſtrate, and you:</l>
                      <l>Submiſſive manners will endear his name;</l>
                      <l>And, when blame-worthy, oft ſecure from blame.</l>
@@ -1158,7 +1160,7 @@
                      <l>Shall raiſe his credit, far extend his fame;</l>
                      <l>And—when no more—will long embalm his name.</l>
                      <l>
-                        <pb n="47" facs="tcp:008307_0049_102E86B8EA29CED8"/>Teach him ſincerity: 'twill free his heart</l>
+                        <pb n="47" facs="unknown:008307_0049_102E86B8EA29CED8"/>Teach him ſincerity: 'twill free his heart</l>
                      <l>From ſelf-reproach, and inward peace impart.</l>
                      <l>Teach him induſtry: and his wealth, thô low,</l>
                      <l>Shall ſoon increaſe; and from all quarters flow.</l>
@@ -1183,14 +1185,14 @@
                            <desc>•</desc>
                         </gap>'d ſhall circling glory ſpread:</l>
                      <l>
-                        <pb n="48" facs="tcp:008307_0050_102E86BA6E57F7C8"/>Thus taught by thee—thy name, with honor crown'd,</l>
+                        <pb n="48" facs="unknown:008307_0050_102E86BA6E57F7C8"/>Thus taught by thee—thy name, with honor crown'd,</l>
                      <l>Shall ev'ry tongue with praiſes echo round;</l>
                      <l>Till faln aſleep in undiſturb'd repoſe,</l>
                      <l>Reſign'd to heav'n—the preſent ſcene you cloſe.</l>
                   </lg>
                </div>
                <div type="section">
-                  <pb n="49" facs="tcp:008307_0051_102E86BBF03A5FE0"/>
+                  <pb n="49" facs="unknown:008307_0051_102E86BBF03A5FE0"/>
                   <head>SON.</head>
                   <lg>
                      <l>LOOK round, and all the works of God diſcern;</l>
@@ -1210,7 +1212,7 @@
                      <l>Th' inſtructive precept thence deriv'd obey.</l>
                      <l>And in thy conduct let it always ſway:</l>
                      <l>
-                        <pb n="50" facs="tcp:008307_0052_102E86C0145D1E98"/>Support thy father when bow'd down with age,</l>
+                        <pb n="50" facs="unknown:008307_0052_102E86C0145D1E98"/>Support thy father when bow'd down with age,</l>
                      <l>And chear his heart in life's declining ſtage:</l>
                      <l>Support him; and extend a guardian arm</l>
                      <l>To ſhield his hoary head from ev'ry harm:</l>
@@ -1235,7 +1237,7 @@
                      <l>To their inſtructions lend a willing ear;</l>
                      <l>And all thy conduct by their precepts ſteer.</l>
                      <l>
-                        <pb n="51" facs="tcp:008307_0053_102E86C2BAF88AD8"/>From love, which o'er you ſpreads it's friendly wing,</l>
+                        <pb n="51" facs="unknown:008307_0053_102E86C2BAF88AD8"/>From love, which o'er you ſpreads it's friendly wing,</l>
                      <l>Their precepts and inſtruction always ſpring:</l>
                      <l>Obſerv'd th' inſtruction, and it's voice obey'd;</l>
                      <l>And due reſpect to all their precepts paid;</l>
@@ -1258,7 +1260,7 @@
                      <l>When helpleſs grown, when ſilver'd o'er by age,</l>
                      <l>And ready to forſake this mortal ſtage;</l>
                      <l>
-                        <pb n="52" facs="tcp:008307_0054_102E86C56BBAC748"/>Allay their grief as languiſhing they lie,</l>
+                        <pb n="52" facs="unknown:008307_0054_102E86C56BBAC748"/>Allay their grief as languiſhing they lie,</l>
                      <l>And all their wants thy filial hand ſupply:</l>
                      <l>Thy filial hand, as now declines their day,</l>
                      <l>Their former love and goodneſs ſhould repay;</l>
@@ -1281,7 +1283,7 @@
                   </lg>
                </div>
                <div type="section">
-                  <pb n="53" facs="tcp:008307_0055_102E86C864064A40"/>
+                  <pb n="53" facs="unknown:008307_0055_102E86C864064A40"/>
                   <head>BROTHERS.</head>
                   <lg>
                      <l>YE all proceeded from one common head;</l>
@@ -1303,7 +1305,7 @@
                      <l>In each good office let your love abound;</l>
                      <l>And with an honeſty unfeign'd be crown'd.</l>
                      <l>
-                        <pb n="54" facs="tcp:008307_0056_102E86CA1933EB68"/>When bus'neſs calls, when op'ning ſcenes demand</l>
+                        <pb n="54" facs="unknown:008307_0056_102E86CA1933EB68"/>When bus'neſs calls, when op'ning ſcenes demand</l>
                      <l>A laſting abſence in a diſtant land;</l>
                      <l>Thô ſeparated long, ne'er thoughtleſs prove</l>
                      <l>
@@ -1341,7 +1343,7 @@
                      <l>Thy love—diffuſive—let thy ſiſter ſhare;</l>
                      <l>And ſhe too; be the object of your care:</l>
                      <l>
-                        <pb n="55" facs="tcp:008307_0057_102E86CF185049F8"/>When fortune's rage her tender boſom wounds,</l>
+                        <pb n="55" facs="unknown:008307_0057_102E86CF185049F8"/>When fortune's rage her tender boſom wounds,</l>
                      <l>Exhauſts her ſtrength, and ev'ry joy confounds:</l>
                      <l>Reach out with chearfulneſs a helping hand;</l>
                      <l>And o'er her woes compaſſion's wings expand.</l>
@@ -1357,7 +1359,7 @@
                </div>
             </div>
             <div type="part">
-               <pb n="56" facs="tcp:008307_0058_102E86D09A85DF08"/>
+               <pb n="56" facs="unknown:008307_0058_102E86D09A85DF08"/>
                <head>PROVIDENCE, or the ACCIDENTAL DIFFERENCES OF MEN.</head>
                <div n="1" type="section">
                   <head>SECTION I. WISE and IGNORANT.</head>
@@ -1373,7 +1375,7 @@
                      <l>Diſpell'd the miſts in which involv'd it lay?</l>
                      <l>And giv'n it light by truth's enlight'ning ray?</l>
                      <l>
-                        <pb n="57" facs="tcp:008307_0059_102E86D3488482F0"/>The heav'nly bleſſing, not to ſelf confin'd,</l>
+                        <pb n="57" facs="unknown:008307_0059_102E86D3488482F0"/>The heav'nly bleſſing, not to ſelf confin'd,</l>
                      <l>Diſpenſe to all around—to all mankind:</l>
                      <l>Inſtruct them in the truths they ought to know;</l>
                      <l>And from your lips let wiſdom's precepts flow:</l>
@@ -1396,7 +1398,7 @@
                      <l>If, on the wings of genius born, you ſoar,</l>
                      <l>And nobly aim at heights unken'd before;</l>
                      <l>
-                        <pb n="58" facs="tcp:008307_0060_102E86D51CA2FA78"/>The wiſe, well pleas'd to ſee your early youth</l>
+                        <pb n="58" facs="unknown:008307_0060_102E86D51CA2FA78"/>The wiſe, well pleas'd to ſee your early youth</l>
                      <l>Employ'd in ſcience, and the ſearch of truth,</l>
                      <l>Will view your genius with complacent eyes;</l>
                      <l>And, fill'd with raptures, hail you as you riſe:</l>
@@ -1421,7 +1423,7 @@
                      <l>Heady—ſelf-will'd—tenacious to the laſt,</l>
                      <l>His firſt opinion, right or wrong, holds faſt:</l>
                      <l>
-                        <pb n="59" facs="tcp:008307_0061_102E86DA1FD99080"/>Once in opinion fix'd, he fix'd abides;</l>
+                        <pb n="59" facs="unknown:008307_0061_102E86DA1FD99080"/>Once in opinion fix'd, he fix'd abides;</l>
                      <l>Whim, humour, caprice, chance—his only guides—</l>
                      <l>And, thò conſummate folly on his breaſt,</l>
                      <l>In laſting characters is deep impreſs'd,</l>
@@ -1446,7 +1448,7 @@
                      <l>He boaſts—and boaſts his worthleſneſs proclaim—</l>
                      <l>He boaſts in trifles a ſuperior name:</l>
                      <l>
-                        <pb n="60" facs="tcp:008307_0062_102E86DBA1CA44C0"/>But ignorance in ev'ry thing betrays,</l>
+                        <pb n="60" facs="unknown:008307_0062_102E86DBA1CA44C0"/>But ignorance in ev'ry thing betrays,</l>
                      <l>That's worthy to be known, or worthy praiſe:</l>
                      <l>In theſe—a willing ignorance can claim</l>
                      <l>Nothing but infamy and laſting ſhame.</l>
@@ -1468,7 +1470,7 @@
                      <l>And ev'ry fool to raiſe it more conſpires.</l>
                   </lg>
                   <lg>
-                     <pb n="61" facs="tcp:008307_0063_102E86DD25DBD948"/>
+                     <pb n="61" facs="unknown:008307_0063_102E86DD25DBD948"/>
                      <l>Obſerve now wiſdom's ſon—by wiſdom taught,</l>
                      <l>He grows in learning, and improves in thought:</l>
                      <l>He ſtrives by ev'ry help t' improve his mind,</l>
@@ -1492,7 +1494,7 @@
                      <l>Thô arts and lit'rature his boſom fire;</l>
                      <l>And in his breaſt the nobleſt joys inſpire:</l>
                      <l>
-                        <pb n="62" facs="tcp:008307_0064_102E86DFD1E63AC8"/>Yet heav'n-born virtue bears the ſov'reign ſway;</l>
+                        <pb n="62" facs="unknown:008307_0064_102E86DFD1E63AC8"/>Yet heav'n-born virtue bears the ſov'reign ſway;</l>
                      <l>And guides his ſteps by her enlight'ning ray:</l>
                      <l>With nobler joys can elevate his mind,</l>
                      <l>Than arts and lit'rature, howe'er refin'd;</l>
@@ -1515,7 +1517,7 @@
                      <l>For human wiſdom, howſoe'er refin'd,</l>
                      <l>Is all but folly to a brighter mind:</l>
                      <l>
-                        <pb n="63" facs="tcp:008307_0065_102E86E4C99C9DF8"/>To brighter minds, that move in nobler ſpheres,</l>
+                        <pb n="63" facs="unknown:008307_0065_102E86E4C99C9DF8"/>To brighter minds, that move in nobler ſpheres,</l>
                      <l>'Tis all a phantom—all a dream appears.</l>
                   </lg>
                   <lg>
@@ -1538,7 +1540,7 @@
                      <l>True happineſs in virtue's garden grows;</l>
                      <l>From virtue as it's ſource, it copious flows:</l>
                      <l>
-                        <pb n="64" facs="tcp:008307_0066_102E86E64B4BFBA8"/>It flows to all who virtue's voice obey;</l>
+                        <pb n="64" facs="unknown:008307_0066_102E86E64B4BFBA8"/>It flows to all who virtue's voice obey;</l>
                      <l>And due regard to all her dictates pay.</l>
                      <l>Virtue, when time ſhall ceaſe and be no more,</l>
                      <l>Shall land her vot'ries on ſome happier ſhore;</l>
@@ -1551,7 +1553,7 @@
                   </lg>
                </div>
                <div n="2" type="section">
-                  <pb n="65" facs="tcp:008307_0067_102E86E91FF4B5B8"/>
+                  <pb n="65" facs="unknown:008307_0067_102E86E91FF4B5B8"/>
                   <head>SECTION II. MAGISTRATES AND SUBJECTS.</head>
                   <lg>
                      <l>O THOU! whom mortals with a bounteous hand,</l>
@@ -1571,7 +1573,7 @@
                      <l>In regal purple gloriouſly array'd—</l>
                      <l>In all the robes of royalty diſplay'd,—</l>
                      <l>
-                        <pb n="66" facs="tcp:008307_0068_102E86EBFB1B0EC8"/>The crown of majeſty inveſts thy head;</l>
+                        <pb n="66" facs="unknown:008307_0068_102E86EBFB1B0EC8"/>The crown of majeſty inveſts thy head;</l>
                      <l>And earth's firſt glories round thy temples ſpread:</l>
                      <l>Thy hand—of ſov'reign pow'r the ſcepter ſways;</l>
                      <l>And far and wide the ſov'reign pow'r diſplays:</l>
@@ -1592,7 +1594,7 @@
                      <l>At this great end in ev'ry action aim;</l>
                      <l>On this foundation raiſe a laſting fame:</l>
                      <l>
-                        <pb n="67" facs="tcp:008307_0069_102E86EEA8EEB6C8"/>Like Phoebus, chearing nature with his beams,</l>
+                        <pb n="67" facs="unknown:008307_0069_102E86EEA8EEB6C8"/>Like Phoebus, chearing nature with his beams,</l>
                      <l>Spread happineſs around in copious ſtreams.</l>
                   </lg>
                   <lg>
@@ -1619,7 +1621,7 @@
                         </gap>—</l>
                      <l>And ſhines unrival'd in th' exalted ſphere:</l>
                      <l>
-                        <pb n="68" facs="tcp:008307_0070_102E86F15A0ACB38"/>Th' exalted ſphere dilates his princely mind;</l>
+                        <pb n="68" facs="unknown:008307_0070_102E86F15A0ACB38"/>Th' exalted ſphere dilates his princely mind;</l>
                      <l>And fits him more and more to bleſs mankind.</l>
                   </lg>
                   <lg>
@@ -1642,7 +1644,7 @@
                      <l>Conſults them freely as his ſureſt guides;</l>
                      <l>And by their counſels—wiſe and good—abides.</l>
                      <l>
-                        <pb n="69" facs="tcp:008307_0071_102E86F407368AD8"/>His magiſtrates, whom fear can ne'er degrade,</l>
+                        <pb n="69" facs="unknown:008307_0071_102E86F407368AD8"/>His magiſtrates, whom fear can ne'er degrade,</l>
                      <l>With vigor act; by juſtice always ſway'd.</l>
                   </lg>
                   <lg>
@@ -1666,7 +1668,7 @@
                      <l>His kingdom's glory and it's ſov'reign's praiſe.</l>
                   </lg>
                   <lg>
-                     <pb n="70" facs="tcp:008307_0072_102E86F6E39E2618"/>
+                     <pb n="70" facs="unknown:008307_0072_102E86F6E39E2618"/>
                      <l>The arts, encourag'd by his royal ſmile,</l>
                      <l>Spring up and thrive, thô barren be the ſoil:</l>
                      <l>Science, which from the mind all clouds removes,</l>
@@ -1693,7 +1695,7 @@
                      <l>And each the tokens of his favor bear.</l>
                   </lg>
                   <lg>
-                     <pb n="71" facs="tcp:008307_0073_102E86F868AE8918"/>
+                     <pb n="71" facs="unknown:008307_0073_102E86F868AE8918"/>
                      <l>At his command—his ſubjects emigrate,</l>
                      <l>And lay the ground-work of a riſing ſtate:—</l>
                      <l>Fleets ſpread the ſea to guard his kingdom's trade;</l>
@@ -1717,7 +1719,7 @@
                      <l>The law, on which their happineſs depends,</l>
                      <l>Chaſtizes vice; and virtue's cauſe defends.</l>
                      <l>
-                        <pb n="72" facs="tcp:008307_0074_102E86FD6D12F4A8"/>Mercy's kind principles inſpire his breaſt:</l>
+                        <pb n="72" facs="unknown:008307_0074_102E86FD6D12F4A8"/>Mercy's kind principles inſpire his breaſt:</l>
                      <l>And, when they fitly may, are all expreſs'd:</l>
                      <l>But rig'rous juſtice hardned vice attends;</l>
                      <l>And on its head in vengeance due deſcends.</l>
@@ -1740,7 +1742,7 @@
                      <l>A love reciprocal in both obtains;</l>
                      <l>And with it's years increaſing vigor gains.</l>
                      <l>
-                        <pb n="73" facs="tcp:008307_0075_102E86FEEF62E7B8"/>Their happineſs—the ſubject of his prayer—</l>
+                        <pb n="73" facs="unknown:008307_0075_102E86FEEF62E7B8"/>Their happineſs—the ſubject of his prayer—</l>
                      <l>Engroſſes all his time, his thoughts and care;</l>
                      <l>And, in a juſt connection with his own,</l>
                      <l>A bright'ning luſtre ſpreads around his throne.</l>
@@ -1765,7 +1767,7 @@
                      <l>At home—abroad—from all annoyance freed,</l>
                      <l>His happy ſubjects, bleſs'd with peace, ſucceed:</l>
                      <l>
-                        <pb n="74" facs="tcp:008307_0076_102E87009DDC4980"/>And HE, the darling of the human race.</l>
+                        <pb n="74" facs="unknown:008307_0076_102E87009DDC4980"/>And HE, the darling of the human race.</l>
                      <l>Endow'd with virtue, and each princely grace—</l>
                      <l>With home-felt joy the regal ſcepter ſways;</l>
                      <l>While circling crouds reſound his matchleſs praiſe:</l>
@@ -1777,7 +1779,7 @@
                </div>
             </div>
             <div type="part">
-               <pb n="75" facs="tcp:008307_0077_102E870596A299F8"/>
+               <pb n="75" facs="unknown:008307_0077_102E870596A299F8"/>
                <head>RELIGION.</head>
                <lg>
                   <l>THIS ſacred truth fix deeply in your mind,</l>
@@ -1797,7 +1799,7 @@
                         <desc>〈…〉</desc>
                      </gap> frame:</l>
                   <l>
-                     <pb n="76" facs="tcp:008307_0078_102E870718C99C90"/>The ſun—the glorious regent of the day—</l>
+                     <pb n="76" facs="unknown:008307_0078_102E870718C99C90"/>The ſun—the glorious regent of the day—</l>
                   <l>Which chears the world with it's enlight'ning ray:</l>
                   <l>Whoſe genial heat invigorates the earth,</l>
                   <l>And gives it's various fruits a ready birth;</l>
@@ -1820,7 +1822,7 @@
                   <l>Who, ſtorms and tempeſts by a word a controls,</l>
                   <l>When in their fury they'd invert the poles:</l>
                   <l>
-                     <pb n="77" facs="tcp:008307_0079_102E870A00FFDFE8"/>Who ſhakes the earth with his almighty hand;</l>
+                     <pb n="77" facs="unknown:008307_0079_102E870A00FFDFE8"/>Who ſhakes the earth with his almighty hand;</l>
                   <l>And all aghaſt the trembling nations ſtand:</l>
                   <l>Who darts his lightnings flaſh on flaſh around;</l>
                   <l>And virtue's foes fall proſtrate to the ground:</l>
@@ -1843,7 +1845,7 @@
                   <l>So varied in each ſpecies, that they raiſe</l>
                   <l>Our higheſt wonder, and tranſcend our praiſe.</l>
                   <l>
-                     <pb n="78" facs="tcp:008307_0080_102E870BBA3D2248"/>Thus form'd—ſee nature to his ſov'reign will</l>
+                     <pb n="78" facs="unknown:008307_0080_102E870BBA3D2248"/>Thus form'd—ſee nature to his ſov'reign will</l>
                   <l>Obedience pay, and all his laws fulfill:</l>
                   <l>See her, obſervant of his awful nod,</l>
                   <l>Thrô all her vaſt extent declare him GOD.</l>
@@ -1866,7 +1868,7 @@
                   <l>In all his ways how wond'rous he appears!</l>
                   <l>His counſels are as ſearchleſs as his years:</l>
                   <l>
-                     <pb n="79" facs="tcp:008307_0081_102E8710C6D19B00"/>The manner of his knowledge, yet unken'd,</l>
+                     <pb n="79" facs="unknown:008307_0081_102E8710C6D19B00"/>The manner of his knowledge, yet unken'd,</l>
                   <l>Does th' utmoſt ſtretch of human thôt tranſcend.</l>
                </lg>
                <lg>
@@ -1890,7 +1892,7 @@
                   <l>And each, that can, a grateful voice ſhould raiſe.</l>
                </lg>
                <lg>
-                  <pb n="80" facs="tcp:008307_0082_102E871248CD99E0"/>
+                  <pb n="80" facs="unknown:008307_0082_102E871248CD99E0"/>
                   <l>HE'S the great head, the centre, and the ſpring</l>
                   <l>Of ev'ry excellence—perfection—thing.</l>
                   <l>See juſtice, goodneſs, truth—in him combine!</l>
@@ -1913,7 +1915,7 @@
                   <l>Directs it's courſe; and all it's motions guides.</l>
                </lg>
                <lg>
-                  <pb n="81" facs="tcp:008307_0083_102E78AC7B84EC58"/>
+                  <pb n="81" facs="unknown:008307_0083_102E78AC7B84EC58"/>
                   <l>To heav'n's extended arch direct your view;</l>
                   <l>The glorious ſcene thrò all it's parts purſue.</l>
                   <l>See Phoebus mount—the lofty ſummit gain!</l>
@@ -1938,7 +1940,7 @@
                   <l>That GOD is good—that all his goodneſs ſhare.</l>
                </lg>
                <lg>
-                  <pb n="82" facs="tcp:008307_0084_102E87191C2B3A38"/>
+                  <pb n="82" facs="unknown:008307_0084_102E87191C2B3A38"/>
                   <l>Extend your view—the world of life look o'er;</l>
                   <l>Survey each ſpecies, and their pow'rs explore:</l>
                   <l>On each th' indulgent hand of heav'n beſtow'd</l>
@@ -1962,7 +1964,7 @@
                   <l>So wiſely fitted to thy nature's frame,</l>
                   <l>So ſuited to thy being's end and aim,</l>
                   <l>
-                     <pb n="83" facs="tcp:008307_0085_102E871A9F058B28"/>That firm obedience paid them will ſecure</l>
+                     <pb n="83" facs="unknown:008307_0085_102E871A9F058B28"/>That firm obedience paid them will ſecure</l>
                   <l>Contentment here, and future joys enſure.</l>
                </lg>
                <lg>
@@ -1985,7 +1987,7 @@
                   <l>HE'S juſt; and will abroad his juſtice ſhew:</l>
                   <l>HE'S right; and will in righteouſneſs review</l>
                   <l>
-                     <pb n="84" facs="tcp:008307_0086_102E871C20DB8B78"/>The moral world: to which—as judge ſupreme,</l>
+                     <pb n="84" facs="unknown:008307_0086_102E871C20DB8B78"/>The moral world: to which—as judge ſupreme,</l>
                   <l>Whoſe judgments flow in an unclouded ſtream—</l>
                   <l>He'll round diſpenſe—at all that world ſhall own—</l>
                   <l>Impartial juſtice from his lofty throne.</l>
@@ -2010,7 +2012,7 @@
                   <l>The perſons, and the ſtations of mankind,</l>
                   <l>From him no notice, no regard ſhall find.</l>
                   <l>
-                     <pb n="85" facs="tcp:008307_0087_102E871FECCFEC80"/>The ſov'reign prince, who rules without control.</l>
+                     <pb n="85" facs="unknown:008307_0087_102E871FECCFEC80"/>The ſov'reign prince, who rules without control.</l>
                   <l>Whoſe empire reaches to the fartheſt pole;</l>
                   <l>The humble peaſant—ſcorn'd by ſlaves of ſlaves—</l>
                   <l>Whoſe head from ſhow'rs a lonely cottage ſaves;</l>
@@ -2031,7 +2033,7 @@
                   <l>And dread the doom, that does thoſe crimes await:</l>
                   <l>A doom ſevere as their offences great</l>
                   <l>
-                     <pb n="86" facs="tcp:008307_0088_102E87229BBA6380"/>But ſee! the juſt, of an unſullied name;</l>
+                     <pb n="86" facs="unknown:008307_0088_102E87229BBA6380"/>But ſee! the juſt, of an unſullied name;</l>
                   <l>Whoſe works a ſhining character proclaim,</l>
                   <l>With hearts elate with joy, ſhall fearleſs ſtand;</l>
                   <l>And ſee ſtrict juſtice dealt by his impartial hand.</l>
@@ -2057,7 +2059,7 @@
                         <desc>〈◊〉</desc>
                      </gap> all that bliſs the circling years renew,</l>
                   <l>
-                     <pb n="87" facs="tcp:008307_0089_102E872549B181A0"/>Your ſoul in tranſports of devotion fire,</l>
+                     <pb n="87" facs="unknown:008307_0089_102E872549B181A0"/>Your ſoul in tranſports of devotion fire,</l>
                   <l>And ſongs of praiſe to heav'n's great king inſpire.</l>
                </lg>
                <lg>
@@ -2084,7 +2086,7 @@
                   <l>Thô being ruſh on being, world on world,</l>
                   <l>And into one vaſt ruin be all hurl'd:</l>
                   <l>
-                     <pb n="88" facs="tcp:008307_0090_102E8727F44B9A90"/>Unſtain'd thy virtue, and thy GOD obey'd,</l>
+                     <pb n="88" facs="unknown:008307_0090_102E8727F44B9A90"/>Unſtain'd thy virtue, and thy GOD obey'd,</l>
                   <l>You'll view the mighty ruin undiſmay'd;</l>
                   <l>On virtue's pinions born, to heav'n ſhall ſoar,</l>
                   <l>And, fill'd with rapt'rous joys, thy GOD adore.</l>
